@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+     char name[100]= "shreya";
+     for ( int i= 0; name[i]='\0';i++)
+     {
+         print("%d", i);
+     }
+
+    return 0;
+}
