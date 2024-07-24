@@ -1,4 +1,4 @@
-class StarPatten{
+class StarPatten {
     public static void main(String[] args) {
         
         int age =20;
